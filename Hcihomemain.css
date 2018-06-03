@@ -4,9 +4,6 @@ html {
   size: auto;
 }
 
-
-
-
 *, 
 *:before,
 *:after{
@@ -46,7 +43,7 @@ h3 {
 }
 
 .ad2{
-  background: url(me.jpg) no-repeat center;
+  background: url(me.png) no-repeat center;
 }
 
 .header, .main, .ad1, .ad2, .foot{
@@ -67,6 +64,13 @@ main {
   color:white;
 }
 
+b {
+  display: block;
+}
+
+img {
+  display: block;
+}
 
 
 footer {
